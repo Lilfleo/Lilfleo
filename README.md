@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Lilfleo
+- 👋 Hi, I’m @Lilfleo (Max, IRL)
+- 🎓 I am a student at Epitech
 - 👀 I’m interested in learning new things (i know, it's kinda boring)
 - 🌱 I’m currently learning Pyhton, FileMakers and oneday Rust ..
 - 📫 How to reach me mail i guess? 
